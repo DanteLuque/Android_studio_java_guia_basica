@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MiPrimeraApp</string>
+    <string name="primer_valor">Ingrese el primer valor</string>
+    <string name="segundo_valor">Ingrese segundo valor</string>
 </resources>

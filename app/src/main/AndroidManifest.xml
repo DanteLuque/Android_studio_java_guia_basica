@@ -13,7 +13,13 @@
         android:theme="@style/Theme.MiPrimeraApp"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".J3_primer_ejercicio"
+            android:exported="true" />
+        <activity
+            android:name=".J2_condicional_If_else"
+            android:exported="true" />
+        <activity
+            android:name=".J1_ciclo_vida_activity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,6 +27,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
     </application>
 
 </manifest>
